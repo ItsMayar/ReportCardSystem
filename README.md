@@ -3,16 +3,14 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple console application built with each sorting/searching data structure algorithm. 
-I used a C++ program that can store, retrieve, display, insert, delete and modify a student's marks in their subjects.
+Developed a console-based C++ application integrating multiple data structure algorithms for efficient sorting and searching. The program features functionalities to store, retrieve, display, insert, delete, and modify student grades across subjects, emphasizing data integrity and performance optimization.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>C++</b>
+  
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
