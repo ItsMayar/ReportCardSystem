@@ -63,6 +63,14 @@ Remove Subject: <br/>
 <img src="https://i.imgur.com/aWC8mWg.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
+Search Student: <br/>
+<img src="https://i.imgur.com/haLUqIS.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+Save All: <br/>
+<img src="https://i.imgur.com/3iGwssP.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
 </p>
 
 <!--
