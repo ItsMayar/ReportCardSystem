@@ -67,6 +67,13 @@ Search Student: <br/>
 <img src="https://i.imgur.com/haLUqIS.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
+Export Students to File: <br/>
+<img src="https://i.imgur.com/dQ6Iffo.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+<img src="https://i.imgur.com/q71EMlQ.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
 Save All: <br/>
 <img src="https://i.imgur.com/3iGwssP.png" height="80%" width="80%" alt="Report Card"/>
 <br />
