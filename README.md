@@ -21,6 +21,9 @@ Main Menu: <br/>
 <br />
 <br />
 Add Student: <br/>
+<img src="https://i.imgur.com/5NKnXUv.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
 <img src="https://i.imgur.com/o1rUzN8.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
