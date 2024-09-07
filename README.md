@@ -27,6 +27,16 @@ Add Student: <br/>
 <img src="https://i.imgur.com/8pYDPgk.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
+Add Subject: <br/>
+<img src="https://i.imgur.com/nNqDjVA.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Zr17D6O.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+<img src="https://i.imgur.com/LnHSRY0.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
 </p>
 
 <!--
