@@ -77,8 +77,18 @@ Export Students to File: <br/>
 <img src="https://i.imgur.com/q71EMlQ.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
+<img src="https://i.imgur.com/nW56Moc.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
 Save All: <br/>
 <img src="https://i.imgur.com/3iGwssP.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+Exit (Auto save): <br/>
+<img src="https://i.imgur.com/aBwjaJW.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+<img src="https://i.imgur.com/AnuEzUY.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
 </p>
