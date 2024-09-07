@@ -53,7 +53,7 @@ Edit Subject: <br/>
 <br />
 <br />
 Remove Student: <br/>
-<img src="https://i.imgur.com/1sAkTbZ.png" height="80%" width="80%" alt="Report Card"/>
+<img src="https://i.imgur.com/CaengLc.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
 Remove Subject: <br/>
