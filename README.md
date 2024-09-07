@@ -34,7 +34,12 @@ Add Subject: <br/>
 <img src="https://i.imgur.com/Zr17D6O.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
+Save Changes<br/>
 <img src="https://i.imgur.com/LnHSRY0.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+Edit Student: <br/>
+<img src="https://i.imgur.com/XTlKJSH.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
 </p>
