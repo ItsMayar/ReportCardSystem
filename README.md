@@ -1,7 +1,5 @@
 <h1>C++ Student Report Card System</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Developed a console-based C++ application integrating multiple data structure algorithms for efficient sorting and searching. The program features functionalities to store, retrieve, display, insert, delete, and modify student grades across subjects, emphasizing data integrity and performance optimization.
 <br />
@@ -18,32 +16,17 @@ Developed a console-based C++ application integrating multiple data structure al
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main Menu, Add Student: <br/>
+<img src="https://i.imgur.com/aSZFXuu.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Student: <br/>
+<img src="https://i.imgur.com/o1rUzN8.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8pYDPgk.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
