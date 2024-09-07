@@ -16,7 +16,7 @@ Developed a console-based C++ application integrating multiple data structure al
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Main Menu, Add Student: <br/>
+Main Menu: <br/>
 <img src="https://i.imgur.com/aSZFXuu.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
@@ -50,6 +50,17 @@ Edit Subject: <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/Ry4Y1kd.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+Remove Student: <br/>
+<img src="https://i.imgur.com/1sAkTbZ.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+Remove Subject: <br/>
+<img src="https://i.imgur.com/xarFjkc.png" height="80%" width="80%" alt="Report Card"/>
+<br />
+<br />
+<img src="https://i.imgur.com/aWC8mWg.png" height="80%" width="80%" alt="Report Card"/>
 <br />
 <br />
 </p>
